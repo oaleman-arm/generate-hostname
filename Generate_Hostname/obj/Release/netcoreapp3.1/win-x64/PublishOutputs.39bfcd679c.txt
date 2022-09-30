@@ -1,0 +1,2 @@
+C:\Users\OSCAR\Desktop\GenerateSerialNumber\Generate_Hostname.pdb
+C:\Users\OSCAR\Desktop\GenerateSerialNumber\Generate_Hostname.exe

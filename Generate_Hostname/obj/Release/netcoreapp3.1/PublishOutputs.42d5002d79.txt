@@ -1,0 +1,16 @@
+C:\Users\OSCAR\Desktop\New folder\Generate_Hostname.exe
+C:\Users\OSCAR\Desktop\New folder\Generate_Hostname.dll
+C:\Users\OSCAR\Desktop\New folder\Generate_Hostname.deps.json
+C:\Users\OSCAR\Desktop\New folder\Generate_Hostname.runtimeconfig.json
+C:\Users\OSCAR\Desktop\New folder\Generate_Hostname.pdb
+C:\Users\OSCAR\Desktop\New folder\Interop.WMICNTLLib.dll
+C:\Users\OSCAR\Desktop\New folder\Microsoft.Win32.Registry.dll
+C:\Users\OSCAR\Desktop\New folder\System.CodeDom.dll
+C:\Users\OSCAR\Desktop\New folder\System.Management.dll
+C:\Users\OSCAR\Desktop\New folder\System.Security.AccessControl.dll
+C:\Users\OSCAR\Desktop\New folder\System.Security.Principal.Windows.dll
+C:\Users\OSCAR\Desktop\New folder\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\OSCAR\Desktop\New folder\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+C:\Users\OSCAR\Desktop\New folder\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\OSCAR\Desktop\New folder\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\OSCAR\Desktop\New folder\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
